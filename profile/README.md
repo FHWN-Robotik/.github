@@ -1,12 +1,12 @@
-## Hi there 👋
+# 🤖 Welcome to FHWN-Robotik
 
-<!--
+## 🚀 About Us
+FHWN-Robotik is the robotics community of the **Fachhochschule Wiener Neustadt (FHWN)**.  
+We focus on exploring, learning, and developing projects in the exciting fields of:
 
-**Here are some ideas to get you started:**
+- 🤖 **Industrial Robotics**
+- 🚗 **Mobile Robotics**
+- 🧠 **Artificial Intelligence in Robotics**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our GitHub space is where we share **teaching resources, student projects, research prototypes, and community initiatives**.  
+
